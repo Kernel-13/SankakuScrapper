@@ -1,0 +1,5 @@
+# lines that start with '#' are treated as comments
+
+type:chan tags:okunoda_miyoi,rating:safe folder:okunoda_miyoi
+type:chan tags:ruukii_drift,touhou folder:ruukii_drift hide:true
+type:chan pool:14688 folder:moyazou_(kitaguni_moyashi_seizoujo)/妖精かぜの子元気な子 unsafe:true

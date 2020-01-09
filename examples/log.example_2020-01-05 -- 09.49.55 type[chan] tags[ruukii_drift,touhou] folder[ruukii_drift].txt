@@ -1,0 +1,1221 @@
+INFO:root: -- SANKAKU SCRAPPER -- 
+
+INFO:root: ## ARGUMENT LIST ## 
+INFO:root:	TYPE : ['chan']
+INFO:root:	QUEUE : None
+INFO:root:	START : None
+INFO:root:	END : None
+INFO:root:	TAGS : ['ruukii_drift,touhou']
+INFO:root:	POOL : None
+INFO:root:	SINGLE : None
+INFO:root:	TIME : None
+INFO:root:	FOLDER : ['ruukii_drift']
+INFO:root:	CHECK : False
+INFO:root:	HIDE : False
+INFO:root:	UNSAFE : False
+INFO:root:	DUPS : None
+
+INFO:root:	DOWNLOAD MODE : TAG SEARCH
+INFO:root:	TAG LIST : ruukii_drift,touhou
+
+INFO:root:	.START
+
+INFO:root:	POST ID : 19142026
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['koakuma']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'monochrome background', '1girl', 'breasts', 'closed mouth', 'demon wings', 'female', 'high heels', 'kneeling', 'long hair', 'looking back', 'medium breasts', 'pantyhose', 'pointed ears', 'red eyes', 'red hair', 'seiza', 'shoes', 'short sleeves', 'sitting', 'skirt', 'uniform', 'wings']
+
+INFO:root:	POST ID : 6438266
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yakumo yukari']
+INFO:root:	OTHER TAGS : ['high resolution', 'speech bubble', 'convenient leg', '1girl', 'black bra', 'black underwear', 'blonde', 'bra', 'breasts', 'clavicle', 'cleavage', 'crossed legs', ';d', 'feet', 'female', 'foreshortening', 'hair ornament', 'hair ribbon', 'hat', 'hat ribbon', 'heart', 'high heels', 'large breasts', 'long hair', 'looking at viewer', 'mob cap', 'one eye closed', 'open mouth', 'pov feet', 'purple eyes', 'red ribbon', 'ribbon', 'shoe dangle', 'shoes', 'sidelocks', 'sitting', 'smile', 'soles', 'solo', 'spoken heart', 'teasing', 'thighhighs', 'underwear', 'very long hair', 'wavy hair', 'wavy mouth', 'white legwear', 'wink']
+
+INFO:root:	POST ID : 4979598
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['ibaraki kasen']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'light background', 'depth of field', '1girl', 'asymmetrical footwear', 'bandaged arm', 'bandages', 'bent knees', 'blurry', 'blush', 'bun cover', 'closed mouth', 'double bun', 'dutch angle', 'feet', 'female', 'footwear off', 'green skirt', 'high heels', 'looking to the side', 'no shoes', 'pink hair', 'pleated', 'pleated skirt', 'pov feet', 'puffy sleeves', 'red eyes', 'red footwear', 'shadow', 'shoe dangle', 'shoes', 'shoes removed', 'short hair', 'short sleeves', 'single shoe', 'sitting', 'skirt', 'soles', 'solo', 'tabard', 'thighhighs', 'thighs', 'toes', 'white legwear', 'zettai ryouiki']
+
+INFO:root:	POST ID : 5543101
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['koakuma']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', '5:4 aspect ratio', 'sketch', '1girl', 'bat wings', 'embarrassed', 'feet', 'female', 'foreshortening', 'head wings', 'high heels', 'lingerie', 'long hair', 'looking to the side', 'miniskirt', 'multiple wings', 'necktie', 'panchira', 'panties under pantyhose', 'pantsu', 'pantyhose', 'shoe dangle', 'shoes', 'shoes removed', 'single shoe', 'sitting', 'skirt', 'soles', 'solo', 'thighband pantyhose', 'underwear', 'upskirt', 'very long hair', 'vest', 'wings']
+
+INFO:root:	Post already saved in "chan\ruukii_drift"	 -> 19142026
+INFO:root:	POST ID : 6835594
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'armchair', 'arm support', 'bow', 'braid', 'chair', 'closed mouth', 'crossed legs', 'feet', 'female', 'full body', 'hair bow', 'hair ornament', 'head rest', 'head tilt', 'high heels', 'knees up', 'looking at viewer', 'maid headdress', 'shoes', 'shoes removed', 'solo', 'sweatdrop', 'thighhighs', 'tied hair', 'twin braids', 'uneven eyes', 'wrist cuffs']
+
+INFO:root:	POST ID : 6835590
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['junko (touhou)']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'bangs', 'blush', 'close-up', 'crescent', 'dress', 'embarrassed', 'female', 'hands up', 'hat', 'long hair', 'solo', 'tabard', 'upper body', 'wavy hair']
+
+INFO:root:	POST ID : 6835589
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['junko (touhou)']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'bangs', 'crescent', 'curly hair', 'dress', 'feet', 'female', 'full body', 'hand up', 'hat', 'high heels', 'knees up', 'long hair', 'ribbon', 'shoes', 'side glance', 'sideways glance', 'single shoe', 'sitting', 'soles', 'solo', 'tabard', 'tassel', 'thighhighs']
+
+INFO:root:	POST ID : 6835588
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kagiyama hina']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'bangs', 'barefoot', 'blunt bangs', 'boots', 'boots removed', 'dutch angle', 'feet', 'female', 'front ponytail', 'frown', 'full body', 'hair ornament', 'hair ribbon', 'high heels', 'knee up', 'long hair', 'looking at viewer', 'ribbon', 'shoes', 'shoes removed', 'sitting', 'soles', 'solo', 'sweatdrop', 'toes', 'undressing', 'wrist ribbon']
+
+INFO:root:	POST ID : 6835583
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaenbyou rin']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'animal ears', 'asymmetrical legwear', 'bangs', 'barefoot', 'blunt bangs', 'bow', 'braid', 'closed mouth', 'cross', 'dress', 'feet', 'female', 'full body', 'hair bow', 'hair ornament', 'high heels', 'juliet sleeves', 'long sleeves', 'looking at viewer', 'nekomimi', 'puffy sleeves', 'shoe removed', 'shoes', 'short hair with long locks', 'single shoe', 'single thighhigh', 'sitting', 'smile', 'solo', 'striped', 'striped legwear', 'thighhighs', 'tied hair', 'toenails', 'twin braids']
+
+INFO:root:	POST ID : 6835582
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaenbyou rin']
+INFO:root:	OTHER TAGS : ['4:3 aspect ratio', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'animal ears', 'barefoot', 'bell', 'bell choker', 'blush', 'bow', 'braid', 'choker', 'closed mouth', 'dutch angle', 'feet', 'female', 'full body', 'hair bow', 'hair ornament', 'holding', 'holding shoes', 'jingle bell', 'looking at viewer', 'nekomimi', 'shoes', 'shoes removed', 'short hair with long locks', 'sitting', 'soles', 'solo', 'striped', 'striped legwear', 'tied hair', 'twin braids', 'undressing']
+
+INFO:root:	POST ID : 6835581
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '2:1 aspect ratio', '1girl', 'book', 'boots', 'capelet', 'closed mouth', 'cross-laced footwear', 'dutch angle', 'female', 'grimoire of alice', 'head out of frame', 'knee boots', 'knees up', 'pantyhose', 'sitting', 'skirt', 'solo']
+
+INFO:root:	POST ID : 6447473
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba', 'kaenbyou rin', 'imaizumi kagerou']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '1:1 aspect ratio', '3girls', 'animal ears', 'arm support', 'black dress', 'black legwear', 'braid', 'brooch', 'brown eyes', 'brown hair', 'bunny ears', 'clavicle', 'closed mouth', 'crossed legs', 'dress', 'extra ears', 'female', 'hair ornament', 'hair ribbon', 'high heels', 'interlocked fingers', 'jacket', 'jewelry', 'juliet sleeves', 'long hair', 'long sleeves', 'looking at viewer', 'multiple girls', 'necktie', 'nekomimi', 'pantyhose', 'puffy sleeves', 'red eyes', 'red hair', 'ribbon', 'shaded face', 'shirt', 'shoes', 'silver hair', 'sitting', 'skirt', 'smile', 'striped', 'striped legwear', 'tail', 'thighhighs', 'thighs', 'tied hair', 'twin braids', 'underbust', 'v arms', 'very long hair', 'wide sleeves', 'wolf ears', 'zettai ryouiki', 'revision']
+
+INFO:root:	Post already saved in "chan\ruukii_drift"	 -> 6438266
+INFO:root:	POST ID : 5895719
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', ':3', 'ascot', 'bangs', 'bow', 'female', 'frilled shirt collar', 'frills', 'hair bow', 'hair ornament', 'hair tubes', 'looking at viewer', 'looking to the side', 'ribbon trim', 'ribbon-trimmed collar', 'ribbon-trimmed headwear', 'shiny', 'shiny hair', 'sidelocks', 'smile', 'solo', 'uneven eyes', 'upper body']
+
+INFO:root:	POST ID : 5895717
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'monochrome', 'greyscale', 'sketch', 'jpeg artifacts', '1girl', 'ascot', 'bangs', 'bed', 'bow', 'detached sleeves', 'embarrassed', 'feet', 'female', 'frilled shirt collar', 'frills', 'hair bow', 'hair ornament', 'hair tubes', 'high heels', 'leg up', 'looking back', 'lying', 'on back', 'on bed', 'pov', 'pov feet', 'removing legwear', 'ribbon trim', 'ribbon-trimmed collar', 'ribbon-trimmed headwear', 'ribbon-trimmed sleeves', 'shirt', 'shoe removed', 'shoes', 'shoes removed', 'short hair', 'single shoe', 'sleeveless', 'sleeveless shirt', 'sock pull', 'socks', 'soles', 'solo', 'thighhighs', 'wide sleeves']
+
+INFO:root:	POST ID : 5895708
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', 'watermark', '1girl', 'ascot', 'bobby socks', 'bow', 'detached sleeves', 'expressionless', 'female', 'frilled shirt collar', 'frills', 'gohei', 'hair bow', 'hair ornament', 'hair tubes', 'legs', 'looking to the side', 'mary janes', 'ribbon trim', 'ribbon-trimmed collar', 'ribbon-trimmed sleeves', 'shiny', 'shiny hair', 'shirt', 'shoes', 'skirt', 'sleeveless', 'sleeveless shirt', 'socks', 'solo', 'thighs', 'wide sleeves']
+
+INFO:root:	POST ID : 5895706
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'watermark', 'jpeg artifacts', '1girl', 'animal ears', 'bangs', 'blazer', 'breasts', 'bunny ears', 'collared shirt', 'cowboy shot', 'extra ears', 'female', 'hand on hip', 'hand on own thigh', 'jacket', 'long hair', 'long sleeves', 'looking at viewer', 'medium breasts', 'necktie', 'pleated skirt', 'shirt', 'sidelocks', 'skirt', 'smile', 'solo', 'thighhighs', 'thighs', 'very long hair', 'zettai ryouiki']
+
+INFO:root:	POST ID : 5895688
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kishin sagume', 'doremy sweet']
+INFO:root:	OTHER TAGS : ['english', 'simple background', 'white background', 'text', 'monochrome', 'greyscale', '5:4 aspect ratio', 'english text', 'sketch', 'watermark', '1girl', 'blood', 'blood splatter', 'bow', 'bowtie', 'collared dress', 'face punch', 'female', 'in the face', 'motion blur', 'motion lines', 'profanity', 'punching', 'single wing', 'solo', 'upper body', 'wings']
+
+INFO:root:	POST ID : 5895687
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', '5:4 aspect ratio', 'sketch', 'watermark', '1girl', 'bangs', 'bow', 'detached sleeves', 'dollar sign', 'female', 'fingers to mouth', 'frilled shirt collar', 'frills', 'grin', 'hair bow', 'hair ornament', 'hair tubes', 'looking at viewer', 'ribbon trim', 'ribbon-trimmed headwear', 'ribbon-trimmed sleeves', 'shiny', 'shiny hair', 'short hair', 'smile', 'solo', 'spoken dollar sign', 'upper body']
+
+INFO:root:	POST ID : 5895666
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'sketch', 'watermark', '1girl', 'angry', 'bow', 'female', 'frilled shirt collar', 'frills', 'hair bow', 'hair ornament', 'hair tubes', 'in profile', 'long hair', 'middle finger', 'ribbon trim', 'ribbon-trimmed collar', 'ribbon-trimmed headwear', 'ribbon-trimmed sleeves', 'shouting', 'solo', 'teeth', 'upper body']
+
+INFO:root:	POST ID : 5895664
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', '5:4 aspect ratio', 'sketch', 'watermark', '1girl', 'alcohol', 'ascot', 'beer', 'bow', 'cup', 'detached sleeves', 'drink', 'drinking glass', 'expressionless', 'female', 'hair bow', 'hair ornament', 'hair tubes', 'looking at viewer', 'parted lips', 'ribbon trim', 'ribbon-trimmed collar', 'ribbon-trimmed headwear', 'ribbon-trimmed sleeves', 'shirt', 'short hair', 'side glance', 'sideways glance', 'sleeveless', 'sleeveless shirt', 'solo', 'tipsy', 'upper body']
+
+INFO:root:	POST ID : 5895662
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', 'sketch', 'watermark', '1girl', 'collared shirt', 'ears down', 'fan', 'female', 'full body', 'hat', 'holding', 'holding fan', 'kneehighs', 'leg up', 'looking at viewer', 'puffy short sleeves', 'puffy sleeves', 'ribbon', 'ribbon trim', 'ribbon-trimmed skirt', 'shirt', 'short hair', 'short sleeves', 'skirt', 'smile', 'solo', 'tokin hat', 'wrist cuffs']
+
+INFO:root:	POST ID : 5895657
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['high resolution', 'censored', 'convenient censoring', '1girl', 'bangs', 'black footwear', 'black hat', 'black headwear', 'black legwear', 'black shoes', 'blouse', 'blush', 'bow', 'colored eyelashes', 'embarrassed', 'female', 'frilled shirt collar', 'frilled sleeves', 'frills', 'green eyes', 'green hair', 'green skirt', 'hair between eyes', 'hat', 'hat bow', 'heart', 'heart of string', 'high heels', 'leg up', 'long sleeves', 'looking to the side', 'pouty lips', 'shirt', 'shoe dangle', 'shoe removed', 'shoes', 'short hair', 'sitting', 'skirt', 'solo', 'string', 'tareme', 'thighs', 'third eye', 'yellow shirt']
+
+INFO:root:	POST ID : 5895637
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu', 'yakumo yukari']
+INFO:root:	OTHER TAGS : ['text', 'monochrome', 'chinese language', 'chinese text', 'chinese', '2girls', 'angry', 'ascot', 'bow', 'clenched teeth', 'detached sleeves', 'eyes closed', 'female', 'fingernails', 'hair bow', 'hair ornament', 'hair tubes', 'hat', 'hat ribbon', 'lipstick', 'long hair', 'long sleeves', 'looking at another', 'makeup', 'mob cap', 'motion lines', 'multiple girls', 'pointing', 'profanity', 'puffy long sleeves', 'puffy sleeves', 'ribbon', 'ribbon trim', 'ribbon-trimmed sleeves', 'sharp fingernails', 'shirt', 'slap', 'sleeveless', 'sleeveless shirt', 'smile', 'squinting', 'tabard', 'teeth', 'wide sleeves']
+
+INFO:root:	POST ID : 5895636
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['saigyouji yuyuko']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', '1girl', 'arm ribbon', 'bangs', 'breasts', 'female', 'fingers to cheek', 'frilled shirt collar', 'frills', 'grin', 'hat', 'in profile', 'large breasts', 'long sleeves', 'looking to the side', 'mob cap', 'obi', 'ribbon', 'ribbon trim', 'ribbon-trimmed sleeves', 'sash', 'short hair', 'smile', 'solo', 'triangular headpiece', 'upper body', 'veil']
+
+INFO:root:	POST ID : 5895635
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['saigyouji yuyuko']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', 'sketch', 'speech bubble', '1girl', 'arm ribbon', 'breasts', 'female', 'hat', 'heart', 'kimono', 'long sleeves', 'looking at viewer', 'medium breasts', 'mob cap', 'one eye closed', 'open mouth', 'ribbon', 'short hair', 'smile', 'solo', 'spoken heart', 'teeth', 'triangular headpiece', 'veil', 'wafuku']
+
+INFO:root:	POST ID : 5895634
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['saigyouji yuyuko']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'arm ribbon', 'breasts', 'cup', 'drinking cup', 'drinking straw', 'eyes closed', 'female', 'food', 'frilled shirt collar', 'frilled sleeves', 'frills', 'half-closed eyes', 'hamburger', 'hat', 'high heels', 'holding', 'holding cup', 'holding food', 'holding object', 'kimono', 'looking at viewer', 'medium breasts', 'mob cap', 'obi', 'ribbon', 'sash', 'shoes', 'short hair', 'solo', 'triangular headpiece', 'veil', 'wafuku', 'walking', 'wide sleeves']
+
+INFO:root:	POST ID : 5895632
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yasaka kanako']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bangs', 'female', 'frilled sleeves', 'frills', 'full body', 'hand on own knee', 'indian-style sitting', 'layered clothes', 'long sleeves', 'looking at viewer', 'mirror', 'parted lips', 'puffy short sleeves', 'puffy sleeves', 'short hair', 'short over long sleeves', 'short sleeves', 'sitting', 'solo', 'squinting', 'waking up']
+
+INFO:root:	POST ID : 5895597
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hinanawi tenshi']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '1girl', 'bangs', 'black legwear', 'blue hair', 'blue skirt', 'blush', 'boots', 'bow', 'brown boots', 'brown footwear', 'cross-laced footwear', 'female', 'hair between eyes', 'high heel boots', 'high heels', 'knee boots', 'lace-up boots', 'leaning back', 'leg up', 'long hair', 'no hat', 'no headwear', 'pantyhose', 'parted lips', 'puffy short sleeves', 'puffy sleeves', 'putting on boots', 'putting on shoes', 'red eyes', 'shirt', 'shoes', 'short sleeves', 'single boot', 'single shoe', 'skirt', 'solo', 'thighband pantyhose', 'thighs', 'very long hair', 'white shirt']
+
+INFO:root:	POST ID : 5895593
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaku seiga']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '1girl', 'arm behind back', 'black footwear', 'black shoes', 'blue dress', 'blue eyes', 'blue hair', 'breasts', 'cleavage', 'curly hair', 'dress', 'feet', 'female', 'hair ornament', 'hair stick', 'hand on own face', 'head tilt', 'high heels', 'large breasts', 'looking at viewer', 'open clothes', 'open vest', 'panchira', 'panchira (sitting)', 'pantsu', 'perspective', 'puffy short sleeves', 'puffy sleeves', 'shawl', 'shoe dangle', 'shoes', 'shoes removed', 'short dress', 'short hair', 'short sleeves', 'sitting', 'smirk', 'soles', 'solo', 'teasing', 'thighs', 'underwear', 'vest', 'white vest']
+
+INFO:root:	POST ID : 5895588
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : ['bang']
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kagiyama hina']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'convenient leg', '1girl', 'adapted costume', 'bare shoulders', 'boot removed', 'boots', 'corset', 'covering mouth', 'cross-laced footwear', 'dress', 'embarrassed', 'female', 'finger gun', 'frilled ribbon', 'frills', 'full body', 'hair ornament', 'hair ribbon', 'high heel boots', 'high heels', 'knee boots', 'lace-up boots', 'long hair', 'looking to the side', 'nail polish', 'putting on boots', 'putting on shoes', 'ribbon', 'shoes', 'short sleeves', 'single boot', 'single shoe', 'single wrist cuff', 'sitting', 'solo', 'strapless', 'strapless dress', 'tearing up', 'thighhighs', 'wavy mouth']
+
+INFO:root:	POST ID : 5895585
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'animal ears', 'bangs', 'blazer', 'bunny ears', 'bunny tail', 'collared shirt', 'female', 'high heels', 'jacket', 'kneeling', 'long hair', 'long sleeves', 'looking at viewer', 'necktie', 'pleated skirt', 'shirt', 'shoes', 'sidelocks', 'skirt', 'smile', 'solo', 'tail', 'thighhighs', 'thighs', 'very long hair']
+
+INFO:root:	POST ID : 5895584
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yakumo yukari']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '1girl', 'bangs', 'blonde', 'bow', 'dress', 'feet', 'female', 'full body', 'hair between eyes', 'hair bow', 'hair ornament', 'hand on own face', 'hat', 'hat ribbon', 'high heels', 'legs', 'legs up', 'lips', 'lipstick', 'long legs', 'long sleeves', 'looking to the side', 'lying', 'makeup', 'mob cap', 'naughty face', 'on stomach', 'pink footwear', 'pink shoes', 'red lipstick', 'removing legwear', 'ribbon', 'shiny', 'shiny hair', 'shoe removed', 'shoes', 'sidelocks', 'single shoe', 'smile', 'sock pull', 'soles', 'solo', 'the pose', 'thighhighs', 'thighhighs pull', 'white dress', 'white legwear', 'wide sleeves']
+
+INFO:root:	POST ID : 5581324
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', '1girl', 'boots removed', 'embarrassed', 'feet', 'female', 'panchira', 'panties under pantyhose', 'pantsu', 'pantyhose', 'pov feet', 'shoes removed', 'skirt', 'soles', 'solo', 'thighband pantyhose', 'underwear', 'upskirt']
+
+INFO:root:	POST ID : 5580330
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', '1girl', 'braid', 'dress', 'feet', 'female', 'frills', 'from behind', 'high contrast', 'high heels', 'kneeling', 'lace', 'lace trim', 'lace-trimmed legwear', 'lace-trimmed thighhighs', 'looking back', 'maid', 'maid headdress', 'puffy short sleeves', 'puffy sleeves', 'shoe dangle', 'shoes', 'shoes removed', 'short dress', 'short hair', 'short sleeves', 'soles', 'solo', 'thighhighs', 'thighs', 'tied hair', 'white legwear', 'wrist cuffs', 'zettai ryouiki']
+
+INFO:root:	POST ID : 5543139
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaenbyou rin']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', '1girl', ':3', 'animal ears', 'arms up', 'bell', 'bow', 'braid', 'breasts', 'choker', 'cleavage', 'dress', 'extra ears', 'feet', 'female', 'frilled dress', 'frills', 'hair bow', 'hair ornament', 'high heels', 'jingle bell', 'legs', 'long hair', 'medium breasts', 'nekomimi', 'pointed ears', 'pointing', 'puffy sleeves', 'shoe dangle', 'shoes', 'single shoe', 'sitting', 'solo', 'striped', 'striped legwear', 'thighhighs', 'tied hair', 'twin braids', 'very long hair']
+
+INFO:root:	Post already saved in "chan\ruukii_drift"	 -> 5543101
+INFO:root:	POST ID : 5543076
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['monochrome', 'greyscale', 'sketch', '1girl', 'barefoot', 'black hat', 'black headwear', 'black legwear', 'bow', 'feet', 'female', 'foreshortening', 'hat', 'hat bow', 'heart', 'heart-shaped pupils', 'high contrast', 'high heels', 'miniskirt', 'shoes', 'single shoe', 'sitting', 'skirt', 'sock pull', 'soles', 'solo', 'symbol-shaped pupils', 'thighhighs', 'undressing']
+
+INFO:root:	POST ID : 5543069
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['monochrome', 'greyscale', 'sketch', '3:2 aspect ratio', '1girl', 'black hat', 'black headwear', 'black legwear', 'bow', 'feet', 'female', 'foreshortening', 'hat', 'hat bow', 'heart', 'heart-shaped pupils', 'high heels', 'looking back', 'lying', 'miniskirt', 'on stomach', 'pillow', 'shoe dangle', 'shoes', 'shoes removed', 'single shoe', 'skirt', 'soles', 'solo', 'symbol-shaped pupils', 'thighhighs', 'thighs', 'zettai ryouiki']
+
+INFO:root:	POST ID : 5542351
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['ibaraki kasen']
+INFO:root:	OTHER TAGS : ['high resolution', 'white background', '5:4 aspect ratio', '1girl', 'bandages', 'bun cover', 'chinese clothes', 'cuffs', 'double bun', 'female', 'parted lips', 'pink eyes', 'pink hair', 'restraints', 'shackles', 'solo', 'tabard', 'teeth', 'thighs']
+
+INFO:root:	POST ID : 5542350
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['1girl', ':3', 'boots', 'bow', 'closed mouth', 'female', 'green eyes', 'green hair', 'hat', 'hat bow', 'heart', 'heart of string', 'heart-shaped pupils', 'kneeling', 'sitting', 'solo', 'symbol-shaped pupils', 'thighhighs', 'thighs', 'third eye', 'wariza', 'wide sleeves', 'zettai ryouiki']
+
+INFO:root:	POST ID : 5383230
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'star vs the forces of evil']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['clownpiece', 'star butterfly', 'clownpiece (cosplay)']
+INFO:root:	OTHER TAGS : ['simple background', '1:1 aspect ratio', 'parody', 'style parody', 'official style', '1girl', 'blonde', 'collar', ':d', 'female', 'female only', 'frilled collar', 'frilled shirt collar', 'frills', 'full body', 'hat', 'jester cap', 'jumping', 'leggings', 'long hair', 'open mouth', 'pink eyes', 'polka dot', 'smile', 'solo', 'star', 'star print', 'striped', 'striped legwear', 'potential duplicate']
+
+INFO:root:	POST ID : 5367166
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'star vs the forces of evil']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['clownpiece', 'star butterfly']
+INFO:root:	OTHER TAGS : ['simple background', '1:1 aspect ratio', 'parody', 'style parody', '1girl', 'blonde', ':d', 'female', 'female only', 'jumping', 'open mouth', 'pantyhose', 'red eyes', 'smile', 'solo']
+
+INFO:root:	POST ID : 5222472
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '1girl', 'animal ears', 'black legwear', 'bunny ears', 'bunny tail', 'female', 'full body', 'jacket', 'kneeling', 'lavender hair', 'long hair', 'long sleeves', 'looking to the side', 'necktie', 'parted lips', 'red eyes', 'shirt', 'shoes', 'skirt', 'solo', 'tail', 'thighhighs', 'thighs', 'very long hair', 'zettai ryouiki']
+
+INFO:root:	POST ID : 4979812
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu', 'kirisame marisa', 'izayoi sakuya', 'kochiya sanae', 'konpaku youmu', 'fujiwara no mokou', 'reisen udongein inaba', 'houraisan kaguya', 'yagokoro eirin']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', 'censored', 'text', 'monochrome', 'comic', 'chinese language', 'greyscale', 'long image', 'sketch', 'tall image', 'censor bar', 'chinese text', 'chinese', '///', '6+girls', 'alcohol', 'animal ears', 'beer', 'blush', 'bow', 'braid', 'bucket', 'bunny ears', 'drink', 'female', 'frog hair ornament', 'hair bow', 'hair ornament', 'hair ribbon', 'hat', 'long hair', 'maid headdress', 'multiple girls', 'ribbon', 'short hair', 'sleeping', 'tied hair', 'twin braids', 'very long hair', 'water', 'witch hat']
+
+INFO:root:	POST ID : 4979683
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['ibaraki kasen']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', 'simple background', 'white background', '1girl', 'bandages', 'breasts', 'chain', 'cuffs', 'double bun', 'female', 'flower', 'full body', 'medium breasts', 'pink hair', 'red eyes', 'restraints', 'ribbon', 'shackles', 'short hair', 'skirt', 'smile', 'solo', 'tabard']
+
+INFO:root:	POST ID : 4979633
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kishin sagume']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', '1girl', 'bow', 'female', 'high heels', 'shoes', 'short hair', 'single wing', 'skirt', 'solo', 'thighhighs', 'wings']
+
+INFO:root:	POST ID : 4979613
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaku seiga']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', '1girl', 'breasts', 'cleavage', 'dress', 'earrings', 'female', 'hair ornament', 'hair rings', 'hair stick', 'high heels', 'jewelry', 'large breasts', 'looking at viewer', 'shoe dangle', 'shoes', 'short hair', 'sitting', 'smile', 'solo', 'thighhighs', 'vest']
+
+INFO:root:	POST ID : 4979607
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['paper', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kochiya sanae']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'sketch', 'light background', '1girl', 'armpits', 'bare shoulders', 'blue eyes', 'breasts', 'closed mouth', 'collar (clothes)', 'detached sleeves', 'exposed shoulders', 'female', 'frog clip', 'frog hair ornament', 'gohei', 'green hair', 'hairclip', 'hair ornament', 'hair tubes', 'holding object', 'large breasts', 'long hair', 'long sleeves', 'looking at viewer', 'oonusa', 'shirt', 'sleeveless', 'sleeveless shirt', 'smile', 'solo', 'traditional clothes', 'upper body', 'wafuku', 'waist up', 'white armwear', 'white shirt', 'wide sleeves']
+
+INFO:root:	Post already saved in "chan\ruukii_drift"	 -> 4979598
+INFO:root:	POST ID : 4979590
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'light background', '1girl', 'bent knees', 'black footwear', 'black hat', 'black headwear', 'black legwear', 'boots', 'bow', 'closed mouth', 'collar (clothes)', 'crossed legs', 'extra eyes', 'eyes in odd places', 'female', 'frills', 'frill sleeves', 'full body', 'green eyes', 'green hair', 'green skirt', 'hand on knee', 'hand on leg', 'hat', 'hat bow', 'high heel boots', 'high heels', 'long sleeves', 'looking at viewer', 'looking to the side', 'midair', 'pleated', 'pleated skirt', 'shirt', 'shoes', 'short hair', 'sitting', 'sitting in midair', 'skirt', 'smile', 'solo', 'string', 'thighhighs', 'thighs', 'third eye', 'wavy hair', 'wide sleeves', 'yellow bow', 'yellow shirt', 'zettai ryouiki']
+
+INFO:root:	POST ID : 4941662
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'light background', 'low quality', 'compression artifacts', 'animal ears', 'asymmetrical bangs', 'bangs', 'bent knees', 'black legwear', 'bunny ears', 'closed mouth', 'collar (clothes)', 'female', 'footwear off', 'full body', 'hand on cheek', 'hand on head', 'high heels', 'long hair', 'long sleeves', 'looking to the side', 'no shoes', 'shoes', 'side bangs', 'sidelocks', 'sitting', 'skirt', 'solo', 'thighhighs', 'thighs', 'zettai ryouiki', 'potential duplicate']
+
+INFO:root:	POST ID : 4935078
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['monochrome', 'low quality', 'animal ears', 'bunny ears', 'downscale', 'female', 'long hair', 'skirt', 'solo']
+
+INFO:root:	POST ID : 4845959
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yakumo yukari']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'female', 'hat', 'lipstick', 'long hair', 'makeup', 'multiple hands', 'ribbon', 'solo']
+
+INFO:root:	POST ID : 4845958
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kagiyama hina']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'dress', 'female', 'frills', 'front ponytail', 'hair bow', 'hair ornament', 'hair ribbon', 'long hair', 'ribbon', 'smile', 'solo']
+
+INFO:root:	POST ID : 4845942
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'animal ears', 'blazer', 'bunny ears', 'extra ears', 'female', 'full body', 'high contrast', 'high heels', 'jacket', 'long hair', 'necktie', 'shoes', 'single shoe', 'skirt', 'solo', 'thighhighs']
+
+INFO:root:	POST ID : 4845940
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'female', 'hat', 'hat ribbon', 'heart', 'high contrast', 'outstretched arms', 'ribbon', 'short hair', 'skirt', 'solo', 'third eye']
+
+INFO:root:	POST ID : 4845939
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'female', 'hair over one eye', 'hat', 'hat ribbon', 'heart', 'high contrast', 'open mouth', 'ribbon', 'short hair', 'skirt', 'smile', 'solo', 'third eye']
+
+INFO:root:	POST ID : 4845938
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['ibaraki kasen']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bandages', 'bun cover', 'chinese clothes', 'cuffs', 'double bun', 'female', 'flower', 'hand on hip', 'no socks', 'rose', 'short hair', 'skirt', 'smile', 'solo', 'tabard', 'toe cleavage']
+
+INFO:root:	POST ID : 4845931
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kishin sagume']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'bowtie', 'dress', 'female', 'jacket', 'one eye closed', 'open clothes', 'shirt', 'short hair', 'single wing', 'solo', 'wings']
+
+INFO:root:	POST ID : 4845930
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kishin sagume']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'bowtie', 'dress', 'feet', 'female', 'jacket', 'one eye closed', 'open clothes', 'shirt', 'short hair', 'single wing', 'solo', 'wings']
+
+INFO:root:	POST ID : 4845929
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kishin sagume']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'bow', 'bowtie', 'dress', 'female', 'jacket', 'one eye closed', 'open clothes', 'shirt', 'short hair', 'single wing', 'smile', 'solo', 'wings']
+
+INFO:root:	POST ID : 4845917
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'boots', 'capelet', 'cross', 'cross-laced footwear', 'dress', 'elbow gloves', 'female', 'gloves', 'hairband', 'high contrast', 'knee boots', 'lace-up boots', 'necktie', 'putting on boots', 'putting on shoes', 'ribbon', 'short hair', 'solo']
+
+INFO:root:	POST ID : 4845916
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', 'monochrome', 'greyscale', 'sketch', '1girl', 'capelet', 'cross', 'dress', 'elbow gloves', 'female', 'gloves', 'hairband', 'necktie', 'ribbon', 'short hair', 'smile', 'solo']
+
+INFO:root:	POST ID : 4845381
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu', 'kochiya sanae', 'yakumo yukari', 'shameimaru aya', 'fujiwara no mokou', 'komeiji koishi', 'moriya suwako', 'yasaka kanako', 'nazrin']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', 'english', 'simple background', 'white background', 'text', 'monochrome', 'chinese language', 'greyscale', 'english text', 'sketch', 'parody', 'chinese text', 'chinese', 'photo-referenced', '= =', '6+girls', 'bicycle', 'blush', 'bow', 'crash', ':d', 'detached sleeves', 'dress', 'eyes closed', 'female', 'ground vehicle', 'hair bow', 'hair ornament', 'hair ribbon', 'hat', 'high heels', 'long hair', 'long sleeves', 'mob cap', 'multiple girls', 'open mouth', 'profanity', 'puffy long sleeves', 'puffy sleeves', 'ribbon', 'riding', 'round teeth', 'shoes', 'smile', 'tabard', 'teeth', 'tokin hat', 'train', 'troll face', 'wreckage']
+
+INFO:root:	POST ID : 4693595
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', '1girl', 'age regression', 'animal ears', 'blazer', 'bunny ears', 'extra ears', 'female', 'hair over one eye', 'high contrast', 'jacket', 'long hair', 'long sleeves', 'necktie', 'oversized clothes', 'skirt', 'sleeves past wrists', 'solo', 'young', 'younger']
+
+INFO:root:	POST ID : 4693593
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', '1girl', 'animal ears', 'blazer', 'bunny ears', 'extra ears', 'female', 'high contrast', 'high heels', 'jacket', 'long hair', 'necktie', 'shoes', 'skirt', 'solo', 'squatting']
+
+INFO:root:	POST ID : 4693589
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', '1girl', 'bent over', 'female', 'grin', 'hat', 'hat ribbon', 'high contrast', 'one eye closed', 'ribbon', 'salute', 'short hair', 'skirt', 'smile', 'solo', 'third eye']
+
+INFO:root:	POST ID : 4693587
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['komeiji koishi']
+INFO:root:	OTHER TAGS : ['monochrome', 'greyscale', 'sketch', '1girl', 'female', 'hat', 'hat ribbon', 'high contrast', 'leg hug', 'ribbon', 'shoes removed', 'short hair', 'skirt', 'solo', 'third eye']
+
+INFO:root:	POST ID : 4693586
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['imaizumi kagerou']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', '1girl', 'animal ears', 'brooch', 'dress', 'extra ears', 'female', 'high contrast', 'jewelry', 'long hair', 'smile', 'solo', 'tail', 'wolf ears', 'wolf tail']
+
+INFO:root:	POST ID : 4693576
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['kine', 'radio', 'lee sun young', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'call of duty', 'call of duty: modern warfare 3']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba', 'seiran (touhou)', 'ringo (touhou)', 'reisen', 'operator']
+INFO:root:	OTHER TAGS : ['high resolution', '16:9 aspect ratio', 'monochrome', 'greyscale', 'sketch', 'parody', '4girls', 'alternative costume', 'animal ears', 'armor', 'assault rifle', 'blood', 'bloodstain', 'body armor', 'bunny ears', 'earmuffs', 'ear protection', 'extra ears', 'female', 'floppy ears', 'gun', 'handgun', 'hat', 'headset', 'holster', 'knee pads', 'load bearing vest', 'long hair', 'magazine (weapon)', 'military', 'military operator', 'military uniform', 'multiple girls', 'over shoulder', 'pistol', 'plate carrier', 'rifle', 'short hair', 'uniform', 'weapon', 'weapon over shoulder']
+
+INFO:root:	POST ID : 4693571
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'terminator', 'terminator 2: judgement day']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hijiri byakuren', 't-800', 'arnold schwarzenegger']
+INFO:root:	OTHER TAGS : ['high resolution', 'monochrome', 'greyscale', 'sketch', 'parody', '1girl', 'arnold schwarzenegger (cosplay)', 'female', 'gradient hair', 'ground vehicle', 'gun', 'jacket', 'long hair', 'motorcycle', 'motor vehicle', 'multicolored hair', 'pants', 'shotgun', 'sunglasses', 't-800 (cosplay)', 'vehicle', 'weapon', 'winchester model 1887']
+
+INFO:root:	POST ID : 4692979
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'grand theft auto']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '1girl', 'blue eyes', 'braid', 'gun', 'handgun', 'maid', 'maid headdress', 'pistol', 'short hair', 'silver hair', 'solo', 'tied hair', 'twin braids', 'weapon']
+
+INFO:root:	POST ID : 4692971
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'grand theft auto']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'parody', '1girl', 'animal ears', 'assault rifle', 'blazer', 'bunny ears', 'extra ears', 'female', 'gun', 'jacket', 'long hair', 'm4 carbine', 'necktie', 'purple hair', 'red eyes', 'rifle', 'skirt', 'solo', 'weapon']
+
+INFO:root:	POST ID : 4692968
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'grand theft auto']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kirisame marisa', 'fujiwara no mokou']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '2girls', 'blonde', 'bow', 'braid', 'cigarette', 'female', 'flamethrower', 'gatling gun', 'gun', 'hair bow', 'hair ornament', 'hair ribbon', 'hat', 'long hair', 'minigun', 'multiple girls', 'pants', 'red eyes', 'ribbon', 'silver hair', 'suspenders', 'tied hair', 'very long hair', 'weapon', 'witch hat']
+
+INFO:root:	POST ID : 4692965
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'grand theft auto']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kochiya sanae']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '1girl', 'alternative costume', 'bikini', 'female', 'food', 'frog', 'frog hair ornament', 'green eyes', 'green hair', 'hair ornament', 'hand on hip', 'innertube', 'long hair', 'popsicle', 'snake', 'snake hair ornament', 'solo', 'swimsuit']
+
+INFO:root:	POST ID : 4681086
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', '1girl', 'black hair', 'black legwear', 'fan', 'female', 'hat', 'hauchiwa', 'kourindou tengu costume', 'one eye closed', 'pointed ears', 'red eyes', 'solo', 'thighs', 'tokin hat']
+
+INFO:root:	POST ID : 4439423
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaku seiga', 'miyako yoshika']
+INFO:root:	OTHER TAGS : ['simple background', 'blue background', '1boy', '1girl', 'black eyes', 'blue hair', 'dress', 'eyes closed', 'feet', 'female', 'frills', 'full body', 'genderswap (ftm)', 'hair', 'hair ornament', 'hair over one eye', 'hair stick', 'hat', 'high heels', 'holding', 'jewelry', 'legs', 'long hair', 'looking at viewer', 'male', 'necklace', 'ofuda', 'open clothes', 'open vest', 'pantyhose', 'shawl', 'shoes', 'shoes removed', 'sitting', 'sleeping', 'torn clothes', 'torn legwear', 'torn pantyhose', 'vest', 'white legwear']
+
+INFO:root:	POST ID : 4135359
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya', 'karasu tengu']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'black wings', 'bridal gauntlets', 'brown eyes', 'brown hair', 'chin stroking', 'feathered wings', 'female', 'hat', 'katana', 'kourindou tengu costume', 'looking at viewer', 'mask', 'pointed ears', 'pom pom (clothes)', 'scabbard', 'sheath', 'sheathed', 'short hair', 'solo', 'sword', 'tengu', 'tengu mask', 'tokin hat', 'weapon', 'wings']
+
+INFO:root:	POST ID : 4107928
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'bow', 'brown eyes', 'brown hair', 'detached sleeves', 'gohei', 'hair bow', 'hair ornament', 'high heels', 'long sleeves', 'looking at viewer', 'midriff', 'navel', 'necktie', 'nontraditional miko', 'shirt', 'shoes', 'skirt', 'skirt set', 'solo', 'wide sleeves']
+
+INFO:root:	POST ID : 4044008
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hong meiling']
+INFO:root:	OTHER TAGS : ['3:2 aspect ratio', '1girl', 'alternative eye color', 'braid', 'breasts', 'female', 'foreshortening', 'hat', 'large breasts', 'long hair', 'open hands', 'red eyes', 'red hair', 'side braid', 'smile', 'solo', 'star', 'tied hair', 'twin braids', 'very long hair']
+
+INFO:root:	POST ID : 4027741
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya', 'dio brando']
+INFO:root:	OTHER TAGS : ['high resolution', '1boy', '1girl', 'blonde', 'carrying', 'female', 'headband', 'high heels', 'male', 'pantyhose', 'power connection', 'princess carry', 'shoes', 'single shoe']
+
+INFO:root:	POST ID : 3866069
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yakumo yukari']
+INFO:root:	OTHER TAGS : ['1girl', 'blonde', 'dress', 'hat', 'hat ribbon', 'ipad', 'long hair', 'long sleeves', 'looking at viewer', 'mob cap', 'nail polish', 'purple dress', 'purple eyes', 'recursion', 'red nails', 'ribbon', 'shirt', 'solo', 'tablet computer', 'very long hair', 'violet eyes', 'wide sleeves']
+
+INFO:root:	POST ID : 3864414
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'steins;gate']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['patchouli knowledge', 'koakuma', 'makise kurisu', 'okabe rintarou', 'makise kurisu (cosplay)', 'okabe rintarou (cosplay)']
+INFO:root:	OTHER TAGS : ['parody', '2girls', 'armband', 'bat wings', 'belt', 'belt buckle', 'bespectacled', 'black pants', 'book', 'bookshelf', 'breasts', 'brown eyes', 'brown hair', 'brown jacket', 'brown outerwear', 'buckle', 'closed mouth', 'coat', 'crescent', 'crescent hair ornament', 'crossed arms', 'demon wings', 'duo', 'female', 'green shirt', 'hairclip', 'hair ornament', 'head wings', 'indoors', 'jacket', 'labcoat', 'large breasts', 'library', 'light smile', 'long hair', 'looking at viewer', 'looking to the side', 'megane', 'moon clip', 'multiple girls', 'necktie', 'off shoulder', 'open clothes', 'open jacket', 'orange neckwear', 'pants', 'pointed ears', 'purple hair', 'shirt', 'slight smile', 'smile', 'steins;gate (parody)', 'undershirt', 'very long hair', 'voile', 'white outerwear', 'white shirt', 'wings', 'x', 'x arms']
+
+INFO:root:	POST ID : 3862930
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['paper', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : ['box']
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '1girl', 'armband', 'bent knees', 'black eyes', 'black footwear', 'black hair', 'bow', 'closed mouth', 'collar', 'detached sleeves', 'donation box', 'dress', 'female', 'frilled bow', 'frilled collar', 'frilled skirt', 'frills', 'full body', 'gohei', 'ground vehicle', 'hair bow', 'hair ornament', 'hair tubes', 'headwear removed', 'helmet', 'helmet removed', 'holding object', 'long hair', 'long sleeves', 'looking at viewer', 'looking to the side', 'motorcycle helmet', 'motor vehicle', 'necktie', 'red bow', 'red dress', 'red outfit', 'red shirt', 'red skirt', 'scooter', 'shadow', 'shide', 'shirt', 'sitting', 'skirt', 'sleeveless', 'sleeveless shirt', 'solo', 'vehicle', 'white armwear', 'wide sleeves', 'yellow neckwear', 'yin yang']
+
+INFO:root:	POST ID : 3861685
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', "jojo's bizarre adventure", 'part 3: stardust crusaders']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya', 'dio brando']
+INFO:root:	OTHER TAGS : ['1boy', '1girl', 'blonde', 'braid', 'dress', 'duo', 'father and daughter', 'female', 'florence cathedral', 'florence (city)', 'height difference', 'landmark', 'looking at another', 'maid', 'maid headdress', 'male', 'pantyhose', 'power connection', 'red hair', 'short dress', 'short hair', 'silver hair', 'tied hair']
+
+INFO:root:	POST ID : 3834959
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reisen udongein inaba', 'kaenbyou rin', 'imaizumi kagerou']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '1:1 aspect ratio', '3girls', 'animal ears', 'arm support', 'black dress', 'black legwear', 'braid', 'brooch', 'brown eyes', 'brown hair', 'bunny ears', 'clavicle', 'dress', 'extra ears', 'female', 'hair ornament', 'hair ribbon', 'high heels', 'interlocked fingers', 'jacket', 'jewelry', 'juliet sleeves', 'long hair', 'long sleeves', 'looking at viewer', 'multiple girls', 'necktie', 'nekomimi', 'pantyhose', 'puffy sleeves', 'red eyes', 'red hair', 'ribbon', 'shaded face', 'shirt', 'shoes', 'silver hair', 'sitting', 'skirt', 'striped', 'striped legwear', 'tail', 'thighhighs', 'thighs', 'tied hair', 'twin braids', 'underbust', 'v arms', 'very long hair', 'wide sleeves', 'wolf ears', 'wolf tail', 'zettai ryouiki']
+
+INFO:root:	POST ID : 3751421
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['peach', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hinanawi tenshi', 'nagae iku']
+INFO:root:	OTHER TAGS : ['high resolution', '2girls', 'black eyes', 'female', 'food', 'fruit', 'hat', 'keystone', 'long hair', 'multiple girls', 'pantyhose', 'purple hair', 'ribbon', 'shawl', 'shoes', 'short hair', 'single shoe', 'skirt', 'smile', 'soles']
+
+INFO:root:	POST ID : 3747297
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : ['white lily']
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kagiyama hina']
+INFO:root:	OTHER TAGS : ['high resolution', 'light background', '1girl', 'black footwear', 'blue flower', 'boots', 'bow', 'closed mouth', 'corset', 'cross-laced footwear', 'dress', 'female', 'floating', 'floating clothes', 'flower', 'frilled bow', 'frilled dress', 'frills', 'frill sleeves', 'front ponytail', 'green eyes', 'green hair', 'hair bow', 'hair ornament', 'high heel boots', 'high heels', 'holding', 'holding flower', 'laced up', 'laces', 'lily (flower)', 'lingerie', 'long hair', 'long sleeves', 'looking at viewer', 'orange flower', 'pink flower', 'purple flower', 'red bow', 'red dress', 'red outfit', 'ribbon', 'ripples', 'sash', 'shoes', 'slight smile', 'smile', 'solo', 'standing', 'standing on one leg', 'underwear', 'white flower', 'wide sleeves', 'yellow flower']
+
+INFO:root:	POST ID : 3720037
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['peach', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hinanawi tenshi']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'alternative eye color', 'blue eyes', 'blue hair', 'female', 'food', 'fruit', 'hat', 'long hair', 'one arm up', 'pillar', 'puffy sleeves', 'sash', 'shirt', 'skirt', 'solo', 'very long hair', 'wind']
+
+INFO:root:	POST ID : 3662453
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '1girl', 'belt', 'black hair', 'black legwear', 'camera', 'female', 'hat', 'hat ribbon', 'katana', 'looking at viewer', 'pointed ears', 'puffy sleeves', 'red eyes', 'ribbon', 'shirt', 'short hair', 'short sleeves', 'skirt', 'smile', 'solo', 'sword', 'thighhighs', 'thighs', 'tokin hat', 'weapon', 'zettai ryouiki']
+
+INFO:root:	POST ID : 3659757
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaenbyou rin']
+INFO:root:	OTHER TAGS : ['1girl', 'animal ears', 'bell', 'bell collar', 'black footwear', 'black shoes', 'bow', 'braid', 'breasts', 'cai piao', 'cat tail', 'collar', 'cross', 'dress', 'extra ears', 'female', 'green dress', 'hair bow', 'hair ornament', 'high heels', 'interlocked fingers', 'juliet sleeves', 'large breasts', 'long hair', 'long sleeves', 'looking at viewer', 'nekomimi', 'pantyhose', 'pointed ears', 'puffy sleeves', 'red eyes', 'red hair', 'ribbon', 'shoes', 'sitting', 'solo', 'striped', 'striped legwear', 'tail', 'thighhighs', 'tied hair', 'twin braids', 'twintails', 'underbust', 'very long hair']
+
+INFO:root:	POST ID : 3659755
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : ['box']
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu', 'yakumo yukari']
+INFO:root:	OTHER TAGS : ['2girls', 'arm support', 'ascot', 'blonde', 'bow', 'brown hair', 'donation box', 'duo', 'female', 'hair bow', 'hair ornament', 'hair ribbon', 'hair tubes', 'hakurei shrine', 'hat', 'hat ribbon', 'juliet sleeves', 'long hair', 'long sleeves', 'looking at viewer', 'mob cap', 'multiple girls', 'parasol', 'puffy sleeves', 'purple eyes', 'ribbon', 'rope', 'shimenawa', 'sitting', 'smile', 'tabard', 'trabant', 'tress ribbon', 'umbrella', 'very long hair', 'wide sleeves', 'yin yang']
+
+INFO:root:	POST ID : 3580614
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa: trigger happy havoc']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kochiya sanae', 'naegi makoto']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '1boy', '1girl', 'ahoge', 'brown hair', 'female', 'frog hair ornament', 'green eyes', 'green hair', 'hair ornament', 'hair tubes', 'hood', 'hoodie', 'index finger raised', 'male', 'smile']
+
+INFO:root:	POST ID : 3580610
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa 2: goodbye despair']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yagokoro eirin', 'tsumiki mikan']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '2girls', 'apron', 'hat', 'labcoat', 'multiple girls', 'purple eyes', 'purple hair', 'red eyes', 'scissors', 'smile', 'syringe', 'white hair']
+
+INFO:root:	POST ID : 3580606
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa: trigger happy havoc']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['mystia lorelei', 'maizono sayaka']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'music', '2girls', 'animal ears', 'blue hair', 'eyes closed', 'female', 'hairclip', 'hair ornament', 'microphone', 'multiple girls', 'open mouth', 'pink hair', 'school uniform', 'serafuku', 'singing', 'wings']
+
+INFO:root:	POST ID : 3580597
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kirisame marisa', 'monokuma', 'kirisame marisa (cosplay)']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'bear', 'blonde', 'braid', 'broom', 'broom riding', 'dress', 'hat', 'mini-hakkero', 'no humans', 'side braid', 'tied hair', 'witch hat']
+
+INFO:root:	POST ID : 3550849
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaku seiga']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'grey background', '1girl', 'alternative costume', 'blue eyes', 'blue hair', 'breasts', 'brown legwear', 'china dress', 'chinese clothes', 'cleavage', 'cleavage cutout', 'dress', 'female', 'full body', 'hair ornament', 'hair rings', 'hair stick', 'large breasts', 'looking at viewer', 'red dress', 'red footwear', 'red shoes', 'shoes', 'short sleeves', 'side slit', 'solo', 'thighhighs', 'thighs', 'zettai ryouiki']
+
+INFO:root:	POST ID : 3533981
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid', 'shanghai doll']
+INFO:root:	OTHER TAGS : ['high resolution', '| |', '1girl', 'alternative color', 'blonde', 'boots', 'bow', 'capelet', 'fingerless gloves', 'floral print', 'gloves', 'hairband', 'hair bow', 'hair ornament', 'long hair', 'looking at viewer', 'red eyes', 'red ribbon', 'ribbon', 'short hair', 'smile']
+
+INFO:root:	POST ID : 3494104
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['imaizumi kagerou']
+INFO:root:	OTHER TAGS : ['monochrome', '1:1 aspect ratio', 'greyscale', '1girl', 'animal ears', 'brooch', 'clavicle', 'female', 'fingernails', 'hand on mouth', 'hand to own mouth', 'jewelry', 'long fingernails', 'long hair', 'solo']
+
+INFO:root:	POST ID : 3465969
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hakurei reimu', 'kirisame marisa', 'alice margatroid', 'yakumo yukari', 'shanghai doll']
+INFO:root:	OTHER TAGS : ['high resolution', 'very high resolution', 'character name', '4girls', 'ascot', 'blonde', 'blue eyes', 'bow', 'braid', 'broom', 'broom riding', 'brown hair', 'capelet', 'detached sleeves', 'doll', 'dress', 'hairband', 'hair bow', 'hair ornament', 'hair tubes', 'hat', 'long hair', 'multiple girls', 'parasol', 'ribbon', 'short hair', 'smirk', 'tied hair', 'umbrella', 'witch hat', 'yellow eyes']
+
+INFO:root:	POST ID : 3465818
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['wriggle nightbug']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'antennae', 'cape', 'female', 'green eyes', 'green hair', 'lamp', 'older', 'short hair', 'shorts', 'smile', 'socks', 'solo', 'suspenders']
+
+INFO:root:	POST ID : 3465610
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaenbyou rin']
+INFO:root:	OTHER TAGS : ['1girl', 'alternative costume', 'animal ears', 'bow', 'braid', 'cross', 'dress', 'hair bow', 'hair ornament', 'long hair', 'nekomimi', 'red eyes', 'red hair', 'ribbon', 'smile', 'solo', 'tied hair', 'twin braids']
+
+INFO:root:	POST ID : 3465172
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'subterranean animism']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['reiuji utsuho', 'kaenbyou rin']
+INFO:root:	OTHER TAGS : ['high resolution', '2girls', 'animal ears', 'arm cannon', 'black hair', 'black wings', 'bow', 'braid', 'cape', 'cat tail', 'hair bow', 'hair ornament', 'long hair', 'multiple girls', 'multiple tails', 'nekomimi', 'red eyes', 'red hair', 'ribbon', 'tail', 'tied hair', 'twin braids', 'weapon', 'wings']
+
+INFO:root:	POST ID : 3465171
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['peach', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'scarlet weather rhapsody']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hinanawi tenshi', 'nagae iku']
+INFO:root:	OTHER TAGS : ['high resolution', '2girls', 'blue hair', 'food', 'frills', 'fruit', 'hat', 'long hair', 'multiple girls', 'purple hair', 'red eyes', 'ribbon', 'short hair', 'smile']
+
+INFO:root:	POST ID : 3465170
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid', 'shanghai doll']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'blonde', 'blue eyes', 'book', 'boots', 'bow', 'doll', 'dress', 'female', 'gloves', 'grimoire', 'grimoire of alice', 'hairband', 'pantyhose', 'ribbon', 'short hair']
+
+INFO:root:	POST ID : 3465169
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['rumia', 'ex-rumia']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'blonde', 'bow', 'female', 'hair bow', 'hair ornament', 'hair ribbon', 'long hair', 'older', 'outstretched arms', 'pantyhose', 'red eyes', 'ribbon', 'skirt', 'solo', 'very long hair']
+
+INFO:root:	POST ID : 3465167
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa: trigger happy havoc']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kasodani kyouko', 'kirigiri kyouko']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'namesake', '2girls', 'animal ears', 'braid', ';d', 'eighth note', 'female', 'green eyes', 'green hair', 'jacket', '\\m/', 'microphone', 'multiple girls', 'musical note', 'necktie', 'one eye closed', 'open mouth', 'purple eyes', 'purple hair', 'quaver', 'side braid', 'smile', 'spoken musical note', 'tied hair', 'violet eyes', 'wink']
+
+INFO:root:	POST ID : 3465165
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa 2: goodbye despair']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hata no kokoro', 'komaeda nagito', 'naegi makoto']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '1boy', '1girl', 'bow', 'crossed arms', 'female', 'hood', 'hoodie', 'male', 'mask', 'pink hair', 'plaid', 'plaid shirt', 'shirt', 'white hair']
+
+INFO:root:	POST ID : 3465163
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa 2: goodbye despair']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['konpaku youmu', 'konpaku youmu (ghost)', 'pekoyama peko']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'trait connection', '2girls', 'black legwear', 'black serafuku', 'blue eyes', 'braid', 'brown legwear', 'female', 'kneehighs', 'leggings', 'lingerie', 'megane', 'multiple girls', 'panties under pantyhose', 'pantsu', 'pantyhose', 'red eyes', 'school uniform', 'serafuku', 'silver hair', 'skirt', 'skirt set', 'socks', 'sword', 'thighband pantyhose', 'thighhighs', 'tied hair', 'twin braids', 'underwear', 'weapon']
+
+INFO:root:	POST ID : 3465162
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa 2: goodbye despair']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kawashiro nitori', 'souda kazuichi']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'trait connection', '^ ^', '1boy', '1girl', 'backpack', 'bag', 'beanie', 'blue hair', 'braid', 'eyes closed', 'female', 'grin', 'hair bobbles', 'hairclip', 'hair ornament', 'hand on shoulder', 'hat', 'jumpsuit', 'male', 'pink hair', 'screwdriver', 'sharp teeth', 'side braid', 'sleeves rolled up', 'smile', 'teeth', 'tied hair', 'twintails', 'wrench']
+
+INFO:root:	POST ID : 3465160
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa 2: goodbye despair']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kijin seija', 'mioda ibuki']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '1:1 aspect ratio', 'trait connection', '2girls', 'dress', 'ear piercing', 'female', 'grin', 'guitar', 'horns', 'instrument', 'lip piercing', 'mismatched legwear', 'multicolored hair', 'multiple girls', 'one eye closed', 'piercing', 'pink eyes', 'red eyes', 'sandals', 'school uniform', 'serafuku', 'size difference', 'smile', 'sweat', 'thighhighs', 'torn clothes', 'torn legwear', 'torn thighhighs', 'wink']
+
+INFO:root:	POST ID : 3465156
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'danganronpa (series)', 'danganronpa 2: goodbye despair']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya', 'koizumi mahiru']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', 'trait connection', '2girls', 'black hair', 'black legwear', 'brown eyes', 'camera', 'geta', 'green legwear', 'hat', 'kneehighs', 'leggings', 'multiple girls', 'open mouth', 'pantyhose', 'pointed ears', 'red hair', 'smile', 'socks', 'thighhighs', 'tokin hat', 'wafuku']
+
+INFO:root:	POST ID : 3347437
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaku seiga', 'miyako yoshika']
+INFO:root:	OTHER TAGS : ['high resolution', '1boy', '1girl', 'abs', 'beads', 'blue hair', 'braid', 'brown hair', 'clenched teeth', 'female', 'from behind', 'genderswap (ftm)', 'giant', 'hair ornament', 'hair rings', 'hair stick', 'jiangshi', 'long hair', 'male', 'ofuda', 'shawl', 'teeth', 'tied hair', 'torn clothes', 'white eyes', 'white skin']
+
+INFO:root:	POST ID : 3304405
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['mystia lorelei']
+INFO:root:	OTHER TAGS : ['white background', '1:1 aspect ratio', '1girl', 'animal ears', 'breasts', 'clavicle', 'cleavage', 'dress', 'female', 'medium breasts', 'microphone', 'microphone stand', 'older', 'parted lips', 'pink hair', 'red eyes', 'solo', 'wings']
+
+INFO:root:	POST ID : 3294943
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['tanuki', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : ['butterfly']
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['moriya suwako', 'futatsuiwa mamizou']
+INFO:root:	OTHER TAGS : ['high resolution', '2girls', 'animal ears', 'barefoot', 'bell', 'black footwear', 'blonde', 'bottle', 'bracelet', 'breasts', 'brown dress', 'brown eyes', 'brown hair', 'brown shirt', 'bug', 'crossed legs', 'dragonfly', 'dress', 'duo', 'feet', 'female', 'flower', 'grass', 'hair ornament', 'hair ribbon', 'hat', 'hat flower', 'indian-style sitting', 'insect', 'jewelry', 'kiseru', 'large breasts', 'leaf', 'leaf on head', 'long skirt', 'long sleeves', 'looking at viewer', 'megane', 'multiple girls', 'mushroom', 'object on head', 'pince-nez', 'pipe', 'purple dress', 'purple outerwear', 'purple skirt', 'purple vest', 'raccoon ears', 'raccoon tail', 'ribbon', 'rock', 'sake bottle', 'sandals', 'shirt', 'shoes', 'short hair', 'single shoe', 'sitting', 'sitting on rock', 'skirt', 'sleeveless', 'sleeveless dress', 'tail', 'traditional clothes', 'vest', 'wafuku', 'white shirt', 'wide sleeves']
+
+INFO:root:	POST ID : 3251036
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'shingeki no kyojin']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['konpaku youmu']
+INFO:root:	OTHER TAGS : ['parody', '1girl', 'alternative costume', 'backlighting', 'bag', 'belt', 'blue eyes', 'boots', 'emblem', 'female', 'hair ornament', 'hair ribbon', 'jacket', 'katana', 'knee boots', 'leg ribbon', 'long sleeves', 'looking at viewer', 'open clothes', 'open jacket', 'pants', 'pants under skirt', 'paradis military uniform', 'ribbon', 'rope', 'shirt', 'shoulder bag', 'silver hair', 'skirt', 'smile', 'solo', 'sword', 'three-dimensional maneuver gear', 'weapon']
+
+INFO:root:	POST ID : 3212219
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['imaizumi kagerou']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '1girl', 'animal ears', 'barefoot', 'bare legs', 'brown hair', 'dress', 'feet', 'female', 'fingernails', 'full body', 'legs', 'long hair', 'sharp fingernails', 'solo', 'very long hair', 'wolf ears']
+
+INFO:root:	POST ID : 3007824
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ice', 'kedama', 'ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou', 'gundam']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['cirno', 'shameimaru aya', 'fujiwara no mokou', 'moriya suwako', 'kawashiro nitori', 'daiyousei', 'zaku']
+INFO:root:	OTHER TAGS : ['high resolution', '6+girls', 'alternative costume', 'asymmetrical hair', 'black hair', 'blonde', 'blue eyes', 'blue hair', 'bow', 'cigarette', ':d', 'dress', 'fishing', 'fishing rod', 'forest', 'giant leaf', 'green eyes', 'green hair', 'hair bobbles', 'hair bow', 'hair ornament', 'hair ribbon', 'hat', 'ice wings', 'leaf', 'long hair', 'looking back', 'mecha', 'multiple girls', 'nature', 'open mouth', 'outdoors', 'pants', 'pointed ears', 'ponytail', 'red eyes', 'ribbon', 'short hair', 'side ponytail', 'silver hair', 'sitting', 'smile', 'smoking', 'suspenders', 'tied hair', 'tokin hat', 'tree', 'twintails', 'two side up', 'very long hair', 'water', 'waterfall', 'wings', 'wrench']
+
+INFO:root:	POST ID : 2980921
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya', 'himekaidou hatate']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '2girls', 'bird wings', 'black hair', 'eyes closed', 'feathers', 'female', 'flying', 'gauntlets', 'geta', 'hair ornament', 'hair ribbon', 'hat', 'hat ribbon', 'long hair', 'multiple girls', 'open mouth', 'pants', 'pointed ears', 'pom pom (clothes)', 'red eyes', 'red footwear', 'red shoes', 'ribbon', 'scroll', 'shirt', 'shoes', 'short hair', 'smile', 'tied hair', 'tokin hat', 'twintails', 'upside-down', 'wafuku', 'wings']
+
+INFO:root:	POST ID : 2871554
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['yakumo yukari']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'alternative costume', 'blonde', 'breasts', 'cleavage', 'dress', 'female', 'geta', 'hair ornament', 'hair ribbon', 'kimono', 'kiseru', 'large breasts', 'long hair', 'long sleeves', 'open clothes', 'open kimono', 'oriental umbrella', 'pipe', 'purple dress', 'purple eyes', 'ribbon', 'sash', 'smile', 'solo', 'tress ribbon', 'umbrella', 'very long hair', 'violet eyes', 'wafuku', 'walking', 'wide sleeves', 'yuujo', 'yuujou']
+
+INFO:root:	POST ID : 2792534
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['ibaraki kasen']
+INFO:root:	OTHER TAGS : ['1:1 aspect ratio', '1girl', 'bandages', 'double bun', 'hair over one eye', 'looking at viewer', 'pink eyes', 'pink hair', 'short hair', 'smile', 'solo']
+
+INFO:root:	POST ID : 2502119
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['hinanawi tenshi']
+INFO:root:	OTHER TAGS : ['1girl', 'adapted costume', 'alternative headwear', 'armor', 'armored dress', 'belt', 'black hat', 'black headwear', 'black legwear', 'blue eyes', 'blue hair', 'boots', 'breasts', 'brown footwear', 'cross-laced footwear', 'dress', 'feathers', 'female', 'gauntlets', 'hand on hat', 'hand on headwear', 'hat', 'high heels', 'knee boots', 'long hair', 'medium breasts', 'pantyhose', 'pauldron', 'shirt', 'shoes', 'skirt', 'solo', 'very long hair']
+
+INFO:root:	POST ID : 2501621
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['onozuka komachi']
+INFO:root:	OTHER TAGS : ['5:3 aspect ratio', '1girl', 'alternative weapon', 'breasts', 'dress', 'flower', 'frown', 'large breasts', 'petals', 'red eyes', 'red hair', 'scarf', 'scythe', 'solo', 'spider lily', 'sunset', 'weapon']
+
+INFO:root:	POST ID : 2376907
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya', 'shameimaru aya']
+INFO:root:	OTHER TAGS : ['high resolution', '2girls', 'black hair', 'braid', 'bust', 'hat', 'in profile', 'kourindou tengu costume', 'maid headdress', 'multiple girls', 'red eyes', 'ribbon', 'short hair', 'silver hair', 'smile', 'tied hair', 'tokin hat', 'twin braids', 'upper body']
+
+INFO:root:	POST ID : 2178054
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid', 'shanghai doll', 'lance']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'apron', 'belt', 'black dress', 'black gloves', 'blonde', 'blue dress', 'bow', 'capelet', 'doll', 'dress', 'elbow gloves', 'fingerless gloves', 'gloves', 'hairband', 'hair bow', 'hair ornament', 'lolita hairband', 'long hair', 'looking at viewer', 'polearm', 'puppet strings', 'shield', 'short hair', 'solo', 'very long hair', 'waist apron', 'weapon', 'yellow eyes']
+
+INFO:root:	POST ID : 2178051
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['shameimaru aya']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '5:3 aspect ratio', '1girl', 'backlighting', 'bird wings', 'black hair', 'black wings', 'feathers', 'fingerless gloves', 'gauntlets', 'gloves', 'hat', 'hat ribbon', 'jacket', 'looking at viewer', 'open clothes', 'open jacket', 'pants', 'pointed ears', 'pointing', 'pointing at self', 'red eyes', 'red gloves', 'ribbon', 'shirt', 'smirk', 'solo', 'tokin hat', 'uneven eyes', 'wings']
+
+INFO:root:	POST ID : 2104439
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ice', 'ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['cirno', 'cirno-nee']
+INFO:root:	OTHER TAGS : ['high resolution', 'simple background', 'white background', '1girl', 'adapted costume', 'adult', 'alternative age', 'alternative hairstyle', 'blue dress', 'blue eyes', 'blue hair', 'blue skirt', 'bow', 'breasts', 'choker', 'dress', 'female', 'hair bow', 'hair ornament', 'hand in hair', 'ice wings', 'long hair', 'medium breasts', 'older', 'ribbon choker', 'sash', 'short hair', 'shoulderless dress', 'skirt', 'smile', 'solo', 'strapless', 'strapless dress', 'very long hair', 'wings']
+
+INFO:root:	POST ID : 2104436
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['alice margatroid', 'konpaku youmu', 'fujiwara no mokou', 'saigyouji yuyuko', 'shanghai doll', 'lily white']
+INFO:root:	OTHER TAGS : ['high resolution', '| |', '5girls', 'apron', 'black gloves', 'blonde', 'blue dress', 'blue sky', 'blush stickers', 'boots', 'bow', 'brown eyes', 'bunny', 'capelet', 'cat', 'cherry blossom', 'closed fan', 'cloud', 'corset', 'cross-laced footwear', 'dress', 'fan', 'fingerless gloves', 'folding fan', 'fourth wall', 'gloves', 'hairband', 'hair bow', 'hair ornament', 'hair ribbon', 'hat', 'lingerie', 'long hair', 'long sleeves', 'looking at viewer', 'multiple girls', 'open mouth', 'pants', 'petals', 'pink hair', 'raised fist', 'ribbon', 'silver hair', 'sky', 'smile', 'tree', 'triangular headpiece', 'underwear', 'v arms', 'veil', 'very long hair', 'waist apron', 'yellow eyes']
+
+INFO:root:	POST ID : 2104435
+INFO:root:	RATING : Questionable
+INFO:root:	ARTIST(S) : ['nekomata', 'ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['kaenbyou rin']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'adapted costume', 'animal ears', 'bell', 'bell collar', 'braid', 'breasts', 'cat tail', 'church', 'collar', 'corset', 'cross', 'dress', 'female', 'green dress', 'hair ornament', 'hair ribbon', 'hand on chest', 'hand on own chest', 'juliet sleeves', 'lingerie', 'long hair', 'long sleeves', 'looking at viewer', 'medium breasts', 'multiple tails', 'nekomimi', 'outstretched arm', 'pantyhose', 'puffy sleeves', 'red eyes', 'red hair', 'ribbon', 'skull', 'sky', 'smirk', 'solo', 'striped', 'striped legwear', 'tail', 'tied hair', 'twin braids', 'underwear', 'very long hair']
+
+INFO:root:	POST ID : 1983075
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['mystia lorelei']
+INFO:root:	OTHER TAGS : ['simple background', 'white background', '5:3 aspect ratio', '1girl', 'alternative age', 'alternative costume', 'animal ears', 'ass', 'back', 'bare back', 'breasts', 'curves', 'dress', 'elegant', 'feathers', 'female', 'large breasts', 'looking back', 'no hat', 'no headwear', 'older', 'pink hair', 'red dress', 'red eyes', 'red outfit', 'ribbon', 'short hair', 'smile', 'solo', 'wings']
+
+INFO:root:	POST ID : 1929545
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['fujiwara no mokou']
+INFO:root:	OTHER TAGS : ['1girl', 'bandages', 'bow', 'cigarette', 'fire', 'hair bow', 'hair ornament', 'hair ribbon', 'long hair', 'luckydrift', 'no shirt', 'pants', 'red eyes', 'ribbon', 'sarashi', 'sash', 'silver hair', 'snow', 'solo', 'tattoo', 'very long hair']
+
+INFO:root:	POST ID : 1887375
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['mystia lorelei']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'alternative age', 'alternative costume', 'animal ears', 'bad perspective', 'bird wings', 'breasts', 'choker', 'cleavage', 'cross', 'dress', 'error', 'female', 'jewelry', 'nail polish', 'no hat', 'no headwear', 'pink hair', 'platform footwear', 'red dress', 'red eyes', 'ring', 'short hair', 'solo', 'wings']
+
+INFO:root:	POST ID : 1836442
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['izayoi sakuya']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'adapted costume', 'bird', 'black legwear', 'blood', 'bow', 'braid', 'card', 'dove', 'dress shirt', 'female', 'glowing', 'glowing eyes', 'grin', 'hair bow', 'hair ornament', 'maid headdress', 'playing cards', 'red eyes', 'shirt', 'side braid', 'smile', 'solo', 'teeth', 'thighhighs', 'tied hair', 'torn clothes', 'torn legwear', 'torn thighhighs', 'twin braids', 'twintails', 'white shirt', 'wrist cuffs']
+
+INFO:root:	POST ID : 1365371
+INFO:root:	RATING : Safe
+INFO:root:	ARTIST(S) : ['ruukii drift', 'na (801039)']
+INFO:root:	COPYRIGHT(S) : ['touhou']
+INFO:root:	STUDIO/CIRCLE : []
+INFO:root:	POOL(S) : []
+INFO:root:	CHARACTER(S) : ['fujiwara no mokou', 'phoenix']
+INFO:root:	OTHER TAGS : ['high resolution', '1girl', 'alternative costume', 'bandages', 'bird', 'bow', 'cigarette', 'female', 'fire', 'hair bow', 'hair ornament', 'indian-style sitting', 'long hair', 'pants', 'sarashi', 'sitting', 'sleeveless', 'smoking', 'solo', 'tattoo', 'torn clothes', 'vest']
+
+INFO:root:	.END
+
+INFO:root:	Nº OF POSTS CHECKED: 136
+INFO:root:	Nº OF POSTS DOWNLOADED: 132
+INFO:root:	START DATE : 01/05/20 09:49:55
+INFO:root:	END DATE : 01/05/20 10:18:17
+INFO:root:	TIME ELAPSED : 00:28:22
